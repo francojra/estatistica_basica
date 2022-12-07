@@ -56,6 +56,11 @@
 ### ordinais pressupõem uma ordenação. Exemplo: grau de escolaridade, estágio de uma doença, mês de
 ### observação.
 
+# Organização de dados: tabelas e gráficos -------------------------------------------------------------------------------------------------
+
+### Para organizar os dados obtidos por meio de uma pesquisa, podemos construir tabelas e gráficos.
+### O tipo de tabela e gráfico dependem dos tipos de variáveis analisadas.
+
 # Moda -------------------------------------------------------------------------------------------------------------------------------------
 
 ### Se refere ao valor que mais aparece em um conjunto de dados.
