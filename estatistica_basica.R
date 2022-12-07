@@ -4,6 +4,17 @@
 # Data: 06/12/22 ---------------------------------------------------------------------------------------------------------------------------
 # Referência: https://www.youtube.com/watch?v=mSk2vjGXA90 ----------------------------------------------------------------------------------
 
+# O que é estatística e para que serve? ----------------------------------------------------------------------------------------------------
+
+### É a parte da matemática que estuda os métodos para coletar, organizar e analisar
+### dados de diferentes áreas visando a tomada de decisões.
+
+# População e amostra ----------------------------------------------------------------------------------------------------------------------
+
+### População é o conjuto de elementos que queremos estudar e apresenta alguma característica
+### em comum. A amostra é um subconjunto, uma parte da população, que apresenta as mesmas
+### características da população.
+
 # Moda -------------------------------------------------------------------------------------------------------------------------------------
 
 ### Se refere ao valor que mais aparece em um conjunto de dados.
