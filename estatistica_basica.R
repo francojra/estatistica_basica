@@ -37,6 +37,25 @@
 ### Amostra proporcional estratificada: consiste em dividir a população em subgrupos (estratos)
 ### de acordo com outras caracter´siticas da população que devem ser levadas em conta.
 
+# Variáveis --------------------------------------------------------------------------------------------------------------------------------
+
+### Quando nos referimos as características da população ou da amostra que nos interessa averiguar
+### estatísticamente.
+
+### As variáveis podem assumir valores numéricos ou não numéricos e são classificadas em quantitativas
+### ou qualitativas.
+
+### As variáveis quantitativas são medidas em escala numérica, são classificadas em discretas ou 
+### contínuas. As variáveis quantitativas discretas podem ser contadas (ex. número de filhos, copos de 
+### água ingeridos em um dia). As variáveis quantitativas contínuas representam resultados de medidas
+### Exemplo: massa de um indivíduos (kg), tempo gasto em determinada atividade (horas).
+
+### As variáveis qualitativas são características que não possuem valor numérico, são definidas por 
+### categorias/classificação. Podem ser classificadas em nominais ou ordinais. As variáveis qualitativas
+### nominais não requerem ordenação (ex. cor dos olhos, região onde mora). As variáveis qualitativas 
+### ordinais pressupõem uma ordenação. Exemplo: grau de escolaridade, estágio de uma doença, mês de
+### observação.
+
 # Moda -------------------------------------------------------------------------------------------------------------------------------------
 
 ### Se refere ao valor que mais aparece em um conjunto de dados.
