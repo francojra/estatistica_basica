@@ -20,3 +20,9 @@
 ### Em um conjunto de dados a mediana é o valor central, que divide o conjunto
 ### (em ordem crescente ou decrescente) em duas partes iguais, quando não é possível 
 ### ter apenas um valor central soma os dois calores do centro e divide por 2. 
+
+# Desvio padrão ----------------------------------------------------------------------------------------------------------------------------
+
+### Se refere ao que está mais distante ou menos distante da média. O que "se desvia
+### do padrão" que é o valor da média. O menor desvio padrão é o valor que está mais
+### próximo da média, e o maior desvio padão é o que está mais distante da média.
