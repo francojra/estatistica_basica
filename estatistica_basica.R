@@ -2,7 +2,8 @@
 # Estatística básica -----------------------------------------------------------------------------------------------------------------------
 # Autora do script: Jeanne Franco ----------------------------------------------------------------------------------------------------------
 # Data: 06/12/22 ---------------------------------------------------------------------------------------------------------------------------
-# Referência: https://www.youtube.com/watch?v=mSk2vjGXA90 ----------------------------------------------------------------------------------
+# Referências: https://www.youtube.com/watch?v=mSk2vjGXA90 ---------------------------------------------------------------------------------
+# https://www.youtube.com/watch?v=5ctWgFOizkQ ----------------------------------------------------------------------------------------------
 
 # O que é estatística e para que serve? ----------------------------------------------------------------------------------------------------
 
@@ -26,7 +27,15 @@
 
 # Tipos de amostragens ---------------------------------------------------------------------------------------------------------------------
 
-### 
+### Amostra casual simples: é o método caracterizado por um sorteio aleatório. Os elementos
+### da população podem ser enumerados e, em seguida, sorteados entre uma quantidade definida
+### previamente.
+
+### Amostra sistemática: é utilizada quando os elementos da população a ser estudada já se encontram
+### ordenados e, sem seguida, são selecionados de acordo com uma certa periodicidade.
+
+### Amostra proporcional estratificada: consiste em dividir a população em subgrupos (estratos)
+### de acordo com outras caracter´siticas da população que devem ser levadas em conta.
 
 # Moda -------------------------------------------------------------------------------------------------------------------------------------
 
