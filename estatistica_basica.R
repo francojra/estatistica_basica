@@ -15,6 +15,19 @@
 ### em comum. A amostra é um subconjunto, uma parte da população, que apresenta as mesmas
 ### características da população.
 
+### A pesquisa censitária é realizada com toda a população. O censo demográfico é realizado
+### pelo IBGE. 
+
+### A pesquisa com amostra costuma ser feita para analisar as intenções de votos da população,
+### como precisa ser feita regularmente, se torna impossível analisar toda a população, então
+### amostras são selecionadas. Uma amostra precisa ter as mesmas características da população,
+### para que as pesquisas obtenham resultados mais próximos da população em geral. O processo
+### de escolha de amostras é chamado de amostragem.
+
+# Tipos de amostragens ---------------------------------------------------------------------------------------------------------------------
+
+### 
+
 # Moda -------------------------------------------------------------------------------------------------------------------------------------
 
 ### Se refere ao valor que mais aparece em um conjunto de dados.
