@@ -109,3 +109,9 @@
 ### de dados que são acumulados a partir dos primeiros intervalos. O gráfico de frequência
 ### acumulada apresenta geralmente uma curva exponencial. Portanto, a probabilidade de uma
 ### frequência de intervalo ser sorteada aumenta com a frequência acumulada.
+
+### Barras: o tamanho da barra representa o valor de cada categoria (característica)
+### da variável. No gráfico de pizza ou circular cada barra pode representar porcentagens
+### de determinadas variáveis.
+
+### Dispersão: associação entre duas variáveis numéricas (contínuas ou discretas).
