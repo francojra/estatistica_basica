@@ -114,4 +114,7 @@
 ### da variável. No gráfico de pizza ou circular cada barra pode representar porcentagens
 ### de determinadas variáveis.
 
-### Dispersão: associação entre duas variáveis numéricas (contínuas ou discretas).
+### Dispersão: associação entre duas variáveis numéricas (contínuas ou discretas). Pode-se
+### verificar a relação entre as duas variáveis, se aumentam concomitantemente, apresentando
+### uma relação positiva, ou se relacionam de forma negativa quando uma aumenta a outra 
+### variável é reduzida.
