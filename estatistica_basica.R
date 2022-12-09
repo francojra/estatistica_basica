@@ -98,3 +98,14 @@
 # Representações gráficas ------------------------------------------------------------------------------------------------------------------
 
 ### Histogramas: representa a frequência de cada intervalo de uma determinada variável.
+
+### A frequência relativa é a razão entre a frequência de um determinado intervalo pela
+### soma de todas as frequências.
+
+### A densidade é a frequência relativa dividido pelo tamanho do intervalo. Por exemplo,
+### um intervalo entre 80 e 100 apresenta um tamanho de 20.
+
+### Frequência relativa acumulada: acúmulo da frequência de todos os intervalos, porcentagem
+### de dados que são acumulados a partir dos primeiros intervalos. O gráfico de frequência
+### acumulada apresenta geralmente uma curva exponencial. Portanto, a probabilidade de uma
+### frequência de intervalo ser sorteada aumenta com a frequência acumulada.
