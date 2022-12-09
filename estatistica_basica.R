@@ -124,3 +124,6 @@
 ### verificar a relação entre as duas variáveis, se aumentam concomitantemente, apresentando
 ### uma relação positiva, ou se relacionam de forma negativa quando uma aumenta a outra 
 ### variável é reduzida.
+
+### Boxplot: no meio da caixa temos o valor da mediana e abaixo da mediana o 1º quartil,
+### e acima da mediana o 2º quartil que representam 50% dos dados.
