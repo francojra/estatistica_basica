@@ -10,6 +10,13 @@
 ### É a parte da matemática que estuda os métodos para coletar, organizar e analisar
 ### dados de diferentes áreas visando a tomada de decisões.
 
+### "A ciência que se preocupa com a organização, descrição, análise e interpretação
+### de dados experimentais visando a tomada de decisões."
+
+### A estatística começou com registro de dados de uma população, como número de habitantes,
+### casamentos, moradias, etc. Havia elaboração de tabelas e gráficos que ajudavam a 
+### visualizar os podrões.
+
 # População e amostra ----------------------------------------------------------------------------------------------------------------------
 
 ### População é o conjuto de elementos que queremos estudar e apresenta alguma característica
