@@ -17,6 +17,10 @@
 ### casamentos, moradias, etc. Havia elaboração de tabelas e gráficos que ajudavam a 
 ### visualizar os podrões.
 
+### A estatística inferencial faz uma inferência a partir do resultado de uma amostra.
+### Ela precisa de três pilares: teoria da probabilidade, conceitos de amostragem e
+### estatística descritiva.
+
 # População e amostra ----------------------------------------------------------------------------------------------------------------------
 
 ### População é o conjuto de elementos que queremos estudar e apresenta alguma característica
@@ -90,3 +94,7 @@
 ### Se refere ao que está mais distante ou menos distante da média. O que "se desvia
 ### do padrão" que é o valor da média. O menor desvio padrão é o valor que está mais
 ### próximo da média, e o maior desvio padão é o que está mais distante da média.
+
+# Representações gráficas ------------------------------------------------------------------------------------------------------------------
+
+### Histogramas: representa a frequência de cada intervalo de uma determinada variável.
