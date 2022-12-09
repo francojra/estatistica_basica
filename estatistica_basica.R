@@ -89,6 +89,8 @@
 ### (em ordem crescente ou decrescente) em duas partes iguais, quando não é possível 
 ### ter apenas um valor central soma os dois calores do centro e divide por 2. 
 
+### Para achar o valor da mediana, é necessário primeiro ordenar os dados.
+
 # Desvio padrão ----------------------------------------------------------------------------------------------------------------------------
 
 ### Se refere ao que está mais distante ou menos distante da média. O que "se desvia
