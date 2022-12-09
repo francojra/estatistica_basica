@@ -14,4 +14,5 @@
 6. Moda;
 7. Média;
 8. Mediana;
-9. Desvio padrão.
+9. Desvio padrão;
+10. Representações gráficas.
