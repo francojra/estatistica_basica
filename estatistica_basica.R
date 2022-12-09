@@ -83,6 +83,10 @@
 ### A média de um conjunto de dados é a soma de todos os valores dividido pelo
 ### número total de valores.
 
+### A média é bem sensível a valores muito altas ou muito pequenos (outliers),
+### e isso leva a uma distribuição diferente da normal. Nesse caso, a mediana
+### pode ser a melhor representação de medida central.
+
 # Mediana ----------------------------------------------------------------------------------------------------------------------------------
 
 ### Em um conjunto de dados a mediana é o valor central, que divide o conjunto
