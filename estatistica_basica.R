@@ -145,6 +145,9 @@
 
 # Medidas de dispersão ---------------------------------------------------------------------------------------------------------------------
 
+### Medidas de dispersão são parâmetros utilizados na estatística para calcular o quanto os dados
+### de um conjunto de valores podem variar.
+
 ### Amplitude: valor máximo do conjunto de dados menos o valor mínimo. A comparação entre amplitudes
 ### dependerá da distribuição dos dados, dados com outliers pode distorcer as medidas de dispersão.
 
@@ -154,9 +157,11 @@
 ### Variância: similar ao desvio médio, mas eleva-se a somatória das distâncias ao quadrado. 
 ### Define a média e depois pega a distância de cada ponto (valor dos dados) em relação
 ### a essa média, então pega o valor de todas as distâncias e eleva ao quadrado, então divide 
-### pelo número total de dados.
+### pelo número total de dados. A variância é útil para determinar o afastamento da média que 
+### os dados de um conjunto analisado apresentam. Para isso, determina-se o valor médio das
+### diferenças quadradas da média.
 
-### Desvio padrão: 
+### Desvio padrão: é calculado a partir da variância, pois é a raiz quadrada desse parâmetro.
 
 ### Coeficiente de variação: pega o valor do desvio padrão, multiplica o valor por 100 e divide
 ### pela média. O valor é dado em porcentagem.
