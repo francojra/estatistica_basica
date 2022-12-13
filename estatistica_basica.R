@@ -127,3 +127,11 @@
 
 ### Boxplot: no meio da caixa temos o valor da mediana e abaixo da mediana o 1º quartil,
 ### e acima da mediana o 2º quartil que representam 50% dos dados.
+
+# Boxplot ----------------------------------------------------------------------------------------------------------------------------------
+
+### Quartis: quando pega o conjunto de dados e divide em quatro partes, o primeiro conjunto
+### vai até 25%, o segundo até corresponde a mediana, o terceiro quartil corresponde a 75%
+### dos dados e o quarto a porcentagem máxima dos dados. Toda a caixa do boxplot corresponde a 
+### 50% dos dados. A mediana corresponde a 25% dos dados acima e 25% dos dados abaixo.
+
