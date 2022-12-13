@@ -155,3 +155,8 @@
 ### Define a média e depois pega a distância de cada ponto (valor dos dados) em relação
 ### a essa média, então pega o valor de todas as distâncias e eleva ao quadrado, então divide 
 ### pelo número total de dados.
+
+### Desvio padrão: 
+
+### Coeficiente de variação: pega o valor do desvio padrão, multiplica o valor por 100 e divide
+### pela média. O valor é dado em porcentagem.
