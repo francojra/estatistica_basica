@@ -149,4 +149,9 @@
 ### dependerá da distribuição dos dados, dados com outliers pode distorcer as medidas de dispersão.
 
 ### Desvio médio: define a média e depois pega a distância de cada ponto (valor dos dados) em relação
-### a essa média, então pega o valor de todas as distâncias e divide pelo número de dados.
+### a essa média, então pega o valor de todas as distâncias e divide pelo número total de dados.
+
+### Variância: similar ao desvio médio, mas eleva-se a somatória das distâncias ao quadrado. 
+### Define a média e depois pega a distância de cada ponto (valor dos dados) em relação
+### a essa média, então pega o valor de todas as distâncias e eleva ao quadrado, então divide 
+### pelo número total de dados.
