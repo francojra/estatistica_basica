@@ -133,5 +133,12 @@
 ### Quartis: quando pega o conjunto de dados e divide em quatro partes, o primeiro conjunto
 ### vai até 25%, o segundo até corresponde a mediana, o terceiro quartil corresponde a 75%
 ### dos dados e o quarto a porcentagem máxima dos dados. Toda a caixa do boxplot corresponde a 
-### 50% dos dados. A mediana corresponde a 25% dos dados acima e 25% dos dados abaixo.
+### 50% dos dados. A mediana corresponde a 25% dos dados acima e 25% dos dados abaixo. Od bigodes
+### são as retas acima e abaixo da caixa e todo conjunto representa o diagrama de caixas do boxplot.
+### Os outliers são valores extremos que estão fora do diagrama de caixas. 
+
+### Distância Interquatil: representa o valor do terceiro quartil menos o valor do primeiro quartil.
+### Ou seja, o tamanho da caixa. O valor de 1,5 vezes a distância interquatil resulta no valor do
+### limite inferior ou o limite superior. Quando um valor está acima ou abaixo desses limites, eles
+### são considerados outliers. Nem sempre o tamanho do bigode alcança o limite inferior e superior.
 
