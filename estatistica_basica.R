@@ -141,4 +141,5 @@
 ### Ou seja, o tamanho da caixa. O valor de 1,5 vezes a distância interquatil resulta no valor do
 ### limite inferior ou o limite superior. Quando um valor está acima ou abaixo desses limites, eles
 ### são considerados outliers. Nem sempre o tamanho do bigode alcança o limite inferior e superior.
+### Essa explicação de dados extermos se referem ao critério de outlier de Tuckey.
 
