@@ -16,4 +16,5 @@
 8. Mediana;
 9. Desvio padrão;
 10. Representações gráficas;
-11. Boxplot.
+11. Boxplot;
+12. Medidas de dispersão.
