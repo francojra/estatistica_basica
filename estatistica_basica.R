@@ -172,3 +172,8 @@
 ### Numa distribuição de frequências, quanto mais afunilada a curva normal, menor será a dispersão
 ### dos dados. Ao redor da média existe maior densidade de valores, ou seja, dados mais constantes
 ### em torno da média, e menor área abaixo da curva de distribuição.
+
+# Estatística descritiva -------------------------------------------------------------------------------------------------------------------
+
+### Corresponde as análises descritivas de dados, como valores de médias e dispersão. É possível
+### anvaliar desempenho de jogadores com análises descritivas dos dados. É uma exploração dos dados.
