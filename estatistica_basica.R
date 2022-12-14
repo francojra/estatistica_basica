@@ -168,3 +168,7 @@
 
 ### Coeficiente de variação: pega o valor do desvio padrão, multiplica o valor por 100 e divide
 ### pela média. O valor é dado em porcentagem.
+
+### Numa distribuição de frequências, quanto mais afunilada a curva normal, menor será a dispersão
+### dos dados. Ao redor da média existe maior densidade de valores, ou seja, dados mais constantes
+### em torno da média, e menor área abaixo da curva de distribuição.
