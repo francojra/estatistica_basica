@@ -2,7 +2,9 @@
 
 ### Autora do script: Jeanne Franco
 ### Data: 06/12/22
-### Referências: https://www.youtube.com/watch?v=mSk2vjGXA90, https://www.youtube.com/watch?v=5ctWgFOizkQ e
+### Referências: 
+### https://www.youtube.com/watch?v=mSk2vjGXA90
+### https://www.youtube.com/watch?v=5ctWgFOizkQ 
 ### https://www.youtube.com/@EducacionalTHM
 
 ## Tópicos do script:
