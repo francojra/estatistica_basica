@@ -42,6 +42,9 @@
 ### Dentro das amostras nós temos as principais medidas que são as estatísticas.
 ### As estatísticas tentam estimar os verdadeiros valores da população, que são os parâmetros.
 
+### Estatísticas são as medidas da amostra e os parâmetros as medidas da população (média, desvio
+### padrão, variância, proporções, etc.)
+
 ### Amostra casual simples: é o método caracterizado por um sorteio aleatório. Os elementos
 ### da população podem ser enumerados e, em seguida, sorteados entre uma quantidade definida
 ### previamente.
