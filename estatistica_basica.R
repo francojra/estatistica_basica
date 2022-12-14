@@ -45,6 +45,9 @@
 ### Estatísticas são as medidas da amostra e os parâmetros as medidas da população (média, desvio
 ### padrão, variância, proporções, etc.)
 
+### Representatividade: as amostras devem ter as mesmas características básicas da população no 
+### que diz respeito às variáveis que desejamos pesquisar.
+
 ### Amostra casual simples: é o método caracterizado por um sorteio aleatório. Os elementos
 ### da população podem ser enumerados e, em seguida, sorteados entre uma quantidade definida
 ### previamente.
@@ -52,8 +55,14 @@
 ### Amostra sistemática: é utilizada quando os elementos da população a ser estudada já se encontram
 ### ordenados e, sem seguida, são selecionados de acordo com uma certa periodicidade.
 
+### Amostragem por conglomerados: pega uma parcela da população, divide ela em pedaços menores
+### e amostra os subconjuntos, dentro de cada subconjunto faz a amostragem. Usado em amostragem
+### de solo, pega uma amostra, coleta em vários pontos dessa amsotra e faz a homogeneização do solo.
+
 ### Amostra proporcional estratificada: consiste em dividir a população em subgrupos (estratos)
-### de acordo com outras caracter´siticas da população que devem ser levadas em conta.
+### de acordo com outras características da população que devem ser levadas em conta. Um local
+### com três características diferentes (três estratos) onde em cada estrato pode-se colocar
+### o mesmo número de parcelas.
 
 # Variáveis --------------------------------------------------------------------------------------------------------------------------------
 
