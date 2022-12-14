@@ -143,6 +143,8 @@
 ### são considerados outliers. Nem sempre o tamanho do bigode alcança o limite inferior e superior.
 ### Essa explicação de dados extermos se referem ao critério de outlier de Tuckey.
 
+### Quanto maior a distância interquartil, maior a dispersão dos dados.
+
 # Medidas de dispersão ---------------------------------------------------------------------------------------------------------------------
 
 ### Medidas de dispersão são parâmetros utilizados na estatística para calcular o quanto os dados
@@ -150,6 +152,7 @@
 
 ### Amplitude: valor máximo do conjunto de dados menos o valor mínimo. A comparação entre amplitudes
 ### dependerá da distribuição dos dados, dados com outliers pode distorcer as medidas de dispersão.
+### Quanto maior a amplitude, maior a dispersão dos dados.
 
 ### Desvio médio: define a média e depois pega a distância de cada ponto (valor dos dados) em relação
 ### a essa média, então pega o valor de todas as distâncias e divide pelo número total de dados.
