@@ -17,4 +17,5 @@
 9. Desvio padrão;
 10. Representações gráficas;
 11. Boxplot;
-12. Medidas de dispersão.
+12. Medidas de dispersão;
+13. Estatística descritiva.
