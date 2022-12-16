@@ -209,12 +209,16 @@
 ### Propriedades das estimativas: justeza e consistência. 
 
 ### Justeza: maior justeza ou estimador justo é aquele que o valor esperado do estimador é 
-### igual ao parâmetro, ou seja, na média o estimador se aproxima do parâmetro.
+### igual ao parâmetro, ou seja, na média, o estimador se aproxima do parâmetro.
 
 ### Consistência: é maior quando se aumenta o n amostral. Quanto maior o n menor a variância
 ### do estimador. A estimativa se torna mais consistente.
 
+### Estimadores podem ser tendenciosos (com menor justeza e consistência) ou podem ser justos.
+### Quanto maior a consistência e justeza, maior a eficácia.
 
+### Estimadores tendenciosos apresentam maior distância da média populacional e também maior
+### dispersão em torno da média. Portanto, são menos eficientes.
 
 
 
