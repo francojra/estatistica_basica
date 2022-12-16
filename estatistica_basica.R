@@ -206,10 +206,13 @@
 
 ### Estimativas: são os resultados numéricos provenientes dos estimadores das amostras.
 
-### Propriedades das estimativas: justeza e consistência. Maior justeza ou estimador justo é aquele
-### que o valor esperado do estimador é igual ao parâmetro, ou seja, na média o estimador se aproxima
-### do parâmetro.
+### Propriedades das estimativas: justeza e consistência. 
 
+### Justeza: maior justeza ou estimador justo é aquele que o valor esperado do estimador é 
+### igual ao parâmetro, ou seja, na média o estimador se aproxima do parâmetro.
+
+### Consistência: é maior quando se aumenta o n amostral. Quanto maior o n menor a variância
+### do estimador. A estimativa se torna mais consistente.
 
 
 
