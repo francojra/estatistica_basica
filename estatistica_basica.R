@@ -194,3 +194,20 @@
 
 ### Corresponde as análises descritivas de dados, como valores de médias e dispersão. É possível
 ### anvaliar desempenho de jogadores com análises descritivas dos dados. É uma exploração dos dados.
+
+# Parâmetros, estimadores e estimativas ----------------------------------------------------------------------------------------------------
+
+### Parâmetros: representam a média populacional, a variância populacional e a proporção
+### amostral. Como não conhecemos esses parâmetros populacionais, utilizamos amostras.
+
+### Estimadores: são as nossas estatísticas, que usamos para estimar os parâmetros da população 
+### através das amostras. É uma forma de estimar o verdadeiro parâmetro da população. São
+### representados pela média amostral, variância amostral e proporção amostral.
+
+### Estimativas: são os resultados numéricos provenientes dos estimadores das amostras.
+
+
+
+
+
+
