@@ -220,5 +220,18 @@
 ### Estimadores tendenciosos apresentam maior distância da média populacional e também maior
 ### dispersão em torno da média. Portanto, são menos eficientes.
 
+# Distribuições amostrais ------------------------------------------------------------------------------------------------------------------
+
+### Na distribuição normal temos uma determinada variável aleatória com a maior parte dos valores
+### distribuídos em torno da média que se encontra no meio do eixo x. Quanto mais distante da média
+### menores são as chances de encontrar os valores na população.
+
+### Função Densidade Probabilidade: é uma função que descreve a verossimilhança de uma variável
+### aleatória tomar um valor dado. A probabilidade da variável aleatória cair em uma faixa particular 
+### é dada pela integral da densidade dessa variável sobre tal faixa - isto é, é dada pela área 
+### abaixo da função densidade mas acima do eixo horizontal e entre o menor e o maior valor dessa 
+### faixa.
+
+### A distribuição normal inclui os parâmetros da média e a variância da distribuição normal.
 
 
