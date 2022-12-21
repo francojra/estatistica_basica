@@ -234,4 +234,10 @@
 
 ### A distribuição normal inclui os parâmetros da média e a variância da distribuição normal.
 
+# Intervalo de confiança da média ----------------------------------------------------------------------------------------------------------
+
+### Estimação intervalar: seria a probabilidade de encontrar um determinado valor em relação a
+### média populacional. Como muitas vezes não é possível obter esse valor exato da média, define-se
+### um intervalo com limites superior e inferior em que exista a probabilidade de encontrar o
+### valor da média.
 
