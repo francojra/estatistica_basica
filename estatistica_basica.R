@@ -245,10 +245,13 @@
 ### Quanto mais dados menor a distorção do intervalo de confiança.
 
 ### Existe a possibilidade de padronizar um valor do intervalo de confiança, a fórmula é o valor
-### do intervalo de confiança menos a média dividido pela variância sobre raiz quadrada de N 
-### populacional. Isso serve para chegar a uma distribuição normal padronizada.
+### do intervalo de confiança menos a média dividido pelo desvio padrão populacional sobre raiz 
+### quadrada de N populacional. Isso serve para chegar a uma distribuição normal padronizada.
 
 ### O intervalo de confiança é dado pela média +/- o erro (limite superior e inferior das amostras).
 ### Esse é o intervalo de confiança para a média populacional e não amostral.
+
+### A medida que aumenta o valor do N populacional, por ele estar dividido, o erro é reduzido
+### na fórmula. O intervalo é encurtado com o erro menor e fica mais preciso.
 
 
