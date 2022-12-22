@@ -239,5 +239,16 @@
 ### Estimação intervalar: seria a probabilidade de encontrar um determinado valor em relação a
 ### média populacional. Como muitas vezes não é possível obter esse valor exato da média, define-se
 ### um intervalo com limites superior e inferior em que exista a probabilidade de encontrar o
-### valor da média.
+### valor da média. Esses limites podem ser traçados com diferentes porcentagens de confiança, como
+### 95% por exemplo.
+
+### Quanto mais dados menor a distorção do intervalo de confiança.
+
+### Existe a possibilidade de padronizar um valor do intervalo de confiança, a fórmula é o valor
+### do intervalo de confiança menos a média dividido pela variância sobre raiz quadrada de N 
+### populacional. Isso serve para chegar a uma distribuição normal padronizada.
+
+### O intervalo de confiança é dado pela média +/- o erro (limite superior e inferior das amostras).
+### Esse é o intervalo de confiança para a média populacional e não amostral.
+
 
