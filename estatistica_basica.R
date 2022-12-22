@@ -254,4 +254,13 @@
 ### A medida que aumenta o valor do N populacional, por ele estar dividido, o erro é reduzido
 ### na fórmula. O intervalo é encurtado com o erro menor e fica mais preciso.
 
+# Intervalo de confiança da proporção ------------------------------------------------------------------------------------------------------
+
+### A presenta uma distribuição binomial. Se o número de elementos da amostra multiplicado pelo p
+### da proporção for maior que 5, a distribuição se torna discreta e se aproxima da distribuição normal,
+### ao invés de binomial. Portanto, nesse intervalo de confiança da proporção a média passa a ser P.
+
+### A variância da proporção será igual a p multiplicado por p-1 dividido por n.
+
+### O intervalo de confiança da proporção será o p (média da proporção) +/- o erro.
 
