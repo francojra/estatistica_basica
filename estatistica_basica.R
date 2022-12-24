@@ -264,3 +264,8 @@
 
 ### O intervalo de confiança da proporção será o p (média da proporção) +/- o erro.
 
+# Intervalo de confiança da variância ------------------------------------------------------------------------------------------------------
+
+### A variância amostral é igual a sigma ao quadrado sobre n-1 multiplicado por X² com n-1
+### grau de liberdade.
+
