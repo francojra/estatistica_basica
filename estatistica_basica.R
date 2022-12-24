@@ -272,3 +272,22 @@
 ### O intervalo de confiança na curva de distribuição corresponde a 1-alpha (95% de confiança).
 ### Essa distribuição não é simétrica devido a ser relacionado à variância e não à média.
 
+# Dimensionamento de amostras --------------------------------------------------------------------------------------------------------------
+
+### Corresponde ao número de elementos de amostras que precisa coletar para atingir uma certa
+### confiança (1-alpha) e garantir um erro padrão.
+
+### Quantos elementos precisam ser amostrados (n) considerando 95% de confiança, considerando
+### um valor fixo do sigma (variância) e um erro aceitável.
+
+### Na fórmula, o valor de n seria o t (ou z) de alpha/2 multiplicado pelo desvio padrão 
+### (variância), divididos pelo erro padrão e tudo elevado ao quadrado.
+
+
+
+
+
+
+
+
+
