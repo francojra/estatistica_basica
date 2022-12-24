@@ -291,6 +291,12 @@
 ### A probabilidade da hipótese ser nula (H0) é quando atinge o valor de p de até 0.05.
 ### Para a probabilidade da hipótese alternativa ser aceita, ela deve ter o valor de p > 0.05.
 
+### A chance de uma hipótese estar errada é a significância do teste.
+
+### Caso o valor de uma probabilidade ultrapasse o valor de p crítico, então existe apenas
+### 5% de chance da hipótese alternativa estar errada. Caso seja menor que o valor crítico,
+### então cai dentro da distribuição normal e a hipótese nula é aceita.
+
 
 
 
