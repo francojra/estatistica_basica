@@ -27,4 +27,5 @@
 16. Intervalo de confiança da média;
 17. Intervalo de confiança da proporção;
 18. Intervalo de confiança da variância;
-19. Dimensionamento de amostras.
+19. Dimensionamento de amostras;
+20. Teste de hipótese.
