@@ -21,4 +21,9 @@
 10. Representações gráficas;
 11. Boxplot;
 12. Medidas de dispersão;
-13. Estatística descritiva.
+13. Estatística descritiva;
+14. Parâmetros, estimadores e estimativas;
+15. Distribuições amostrais;
+16. Intervalo de confiança da média;
+17. Intervalo de confiança da proporção;
+18. Intervalo de confiança da variância.
