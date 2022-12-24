@@ -269,3 +269,6 @@
 ### A variância amostral é igual a sigma ao quadrado sobre n-1 multiplicado por X² com n-1
 ### grau de liberdade.
 
+### O intervalo de confiança na curva de distribuição corresponde a 1-alpha (95% de confiança).
+### Essa distribuição não é simétrica devido a ser relacionado à variância e não à média.
+
