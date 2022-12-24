@@ -297,9 +297,7 @@
 ### 5% de chance da hipótese alternativa estar errada. Caso seja menor que o valor crítico,
 ### então cai dentro da distribuição normal e a hipótese nula é aceita.
 
-
-
-
+### Não pode-se falar que aceita H0 e sim que não rejeita H0. Não se afirma hipótese.
 
 
 
