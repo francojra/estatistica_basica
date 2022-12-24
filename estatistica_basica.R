@@ -283,6 +283,13 @@
 ### Na fórmula, o valor de n seria o t (ou z) de alpha/2 multiplicado pelo desvio padrão 
 ### (variância), divididos pelo erro padrão e tudo elevado ao quadrado.
 
+# Teste de hipótese ------------------------------------------------------------------------------------------------------------------------
+
+### H0: hipótese aceita atualmente.
+### H1: hipótese alternativa.
+
+### A probabilidade da hipótese ser nula (H0) é quando atinge o valor de p de até 0.05.
+### Para a probabilidade da hipótese alternativa ser aceita, ela deve ter o valor de p > 0.05.
 
 
 
