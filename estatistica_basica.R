@@ -299,7 +299,7 @@
 
 ### Não pode-se falar que aceita H0 e sim que não rejeita H0. Não se afirma hipótese.
 
-# Teste de hipótese da média ---------------------------------------------------------------------------------------------------------------
+# Teste de hipóteses da média --------------------------------------------------------------------------------------------------------------
 
 ### A hipótese nula é que a média da população (M) seja igual a média amostral M0 e a 
 ### alternativa é que a média seja diferente de M0, ou seja, maior ou menor que M.
