@@ -301,19 +301,19 @@
 
 # Teste de hipótese da média ---------------------------------------------------------------------------------------------------------------
 
-### A hipótese nula é que a média (M) seja igual a M0 e a alternativa é que a média seja diferente
-### de M0, ou seja, maior ou menor que M.
+### A hipótese nula é que a média da população (M) seja igual a média amostral M0 e a 
+### alternativa é que a média seja diferente de M0, ou seja, maior ou menor que M.
 
 ### Primeiro passo em um teste de hipótese é definir as hipóteses nula e alternativa, a média,
 ### e depois o valor crítico.
 
-### Se a hipótese alternativa for que o M seja maior que o M0, então o valor encontrado que ultrpassa
+### Se a hipótese alternativa for que o M seja maior que o M0, então o valor M0 que ultrapassa
 ### a barreira do valor crítico à direita permite rejeitar a hipótese nula.
 
-### Se a hipótese alternativa for que o M seja maior que o M0, então o valor encontrado que ultrpassa
+### Se a hipótese alternativa for que o M seja maior que o M0, então o valor M0 que ultrpassa
 ### a barreira do valor crítico à direita permite rejeitar a hipótese nula e aceita a alternativa
-### que M é maior que M0.
+### que M é maior que M0. Se não ultrapassar, não rejeita-se a hipótese nula.
 
 ### Se a hipótese alternativa for que o M seja menor que o M0, então o valor encontrado que ultrpassa
 ### a barreira do valor crítico à esquerda permite rejeitar a hipótese nula e aceita a alternativa
-### que M é menor que M0.
+### que M é menor que M0. Se não ultrapassar, não rejeita-se a hipótese nula.
