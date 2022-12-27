@@ -29,4 +29,5 @@
 18. Intervalo de confiança da variância;
 19. Dimensionamento de amostras;
 20. Teste de hipótese;
-21. Teste de hipóteses da média.
+21. Teste de hipóteses da média;
+22. Teste de hipóteses: Erros.
