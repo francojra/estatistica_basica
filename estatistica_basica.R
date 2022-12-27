@@ -317,3 +317,11 @@
 ### Se a hipótese alternativa for que o M seja menor que o M0, então o valor encontrado que ultrpassa
 ### a barreira do valor crítico à esquerda permite rejeitar a hipótese nula e aceita a alternativa
 ### que M é menor que M0. Se não ultrapassar, não rejeita-se a hipótese nula.
+
+# Teste de hipóteses: Erros ----------------------------------------------------------------------------------------------------------------
+
+### Tem relação com a significância do teste (alpha).
+
+### Erro tipo I: rejeita-se a hipótese nula quando ela é verdadeira.
+
+### Erro tipo 2: não rejeita-se a hipótese nula quando ela é falsa.
