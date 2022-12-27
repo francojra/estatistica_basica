@@ -324,4 +324,4 @@
 
 ### Erro tipo I: rejeita-se a hipótese nula quando ela é verdadeira.
 
-### Erro tipo 2: não rejeita-se a hipótese nula quando ela é falsa.
+### Erro tipo 2: não rejeita-se a hipótese nula quando ela é falsa. Depende de outra distribuição.
