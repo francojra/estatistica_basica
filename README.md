@@ -30,4 +30,5 @@
 19. Dimensionamento de amostras;
 20. Teste de hipótese;
 21. Teste de hipóteses da média;
-22. Teste de hipóteses: Erros.
+22. Teste de hipóteses: Erros;
+23. Teste de hipótese da variância.
