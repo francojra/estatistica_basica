@@ -334,7 +334,8 @@
 ### Hipótese alternativa: duração das chamadas telefônicas com variabilidade de 4 minutos do Brasil é  
 ### diferente (maior ou menor) que uma certa cidade.
 
-### A distribuição da variância é assimétrica (diferente da distribuição normal).
+### A distribuição da variância é assimétrica (diferente da distribuição normal). Devido à assimetria,
+### a cauda da distribuição à direita é 1-alpha/2 e da distribuição à esquerda é alpha/2.
 
 ### Quando se testa a hipótese alternativa que diz apenas que é diferente, sem ser maior ou menor,
 ### deve-se achar dois valores críticos e verificar se ultrapassam as barras desses valores 
