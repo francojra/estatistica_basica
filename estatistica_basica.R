@@ -325,3 +325,13 @@
 ### Erro tipo I: rejeita-se a hipótese nula quando ela é verdadeira.
 
 ### Erro tipo 2: não rejeita-se a hipótese nula quando ela é falsa. Depende de outra distribuição.
+
+# Teste de hipótese da variância -----------------------------------------------------------------------------------------------------------
+
+### Hipótse nula: duração das chamadas telefônicas com variabilidade de 4 minutos do Brasil é a 
+### mesma que uma certa cidade.
+
+### Hipótese alternativa: duração das chamadas telefônicas com variabilidade de 4 minutos do Brasil é  
+### diferente (maior ou menor) que uma certa cidade.
+
+### A distribuição da variância é assimétrica (diferente da distribuição normal).
