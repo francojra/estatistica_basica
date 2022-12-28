@@ -345,3 +345,6 @@
 
 ### A média amostral apresenta um valor esperado que é a média populacional e a variância populacional
 ### dividido pelo número de elementos da amostra.
+
+### A hipótese nula desse teste é que as médias dos dois grupos são iguais e a hipótese alternativa
+### é que a média dos dois grupos são diferentes (maior ou menor).
