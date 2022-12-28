@@ -31,4 +31,5 @@
 20. Teste de hipótese;
 21. Teste de hipóteses da média;
 22. Teste de hipóteses: Erros;
-23. Teste de hipótese da variância.
+23. Teste de hipótese da variância;
+24. Teste de Hipóteses de Duas Médias.
