@@ -335,3 +335,7 @@
 ### diferente (maior ou menor) que uma certa cidade.
 
 ### A distribuição da variância é assimétrica (diferente da distribuição normal).
+
+### Quando se testa a hipótese alternativa que diz apenas que é diferente, sem ser maior ou menor,
+### deve-se achar dois valores críticos e verificar se ultrapassam as barras desses valores 
+### críticos, se ultrapassar, então aceita-se a hipótese alternativa.
