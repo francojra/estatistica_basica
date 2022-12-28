@@ -340,3 +340,8 @@
 ### Quando se testa a hipótese alternativa que diz apenas que é diferente, sem ser maior ou menor,
 ### deve-se achar dois valores críticos e verificar se ultrapassam as barras desses valores 
 ### críticos, se ultrapassar, então aceita-se a hipótese alternativa.
+
+# Teste de Hipóteses de Duas Médias --------------------------------------------------------------------------------------------------------
+
+### A média amostral apresenta um valor esperado que é a média populacional e a variância populacional
+### dividido pelo número de elementos da amostra.
