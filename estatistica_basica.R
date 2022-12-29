@@ -363,3 +363,8 @@
 ### Com os dados de tempo de cada variável, pode-se calcular a variável de diferença de tempos
 ### dos dois candidatos. Esse cálculo é feito para os dois tempos de cada questão, então teremos
 ### um conjunto de valores com as diferenças de tempos que será a amostra.
+
+### A hipótese nula é que a média dessa amostra será igual a zero, e a hipótese alternativa
+### é que a média será maior ou menor que zero.
+
+### Deve-se achar na fórmula o valor crítico da distribuição.
