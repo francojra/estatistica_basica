@@ -348,3 +348,7 @@
 
 ### A hipótese nula desse teste é que as médias dos dois grupos são iguais e a hipótese alternativa
 ### é que a média dos dois grupos são diferentes (maior ou menor).
+
+### Quando as variâncias são iguais usa-se a distribuição de t-student.
+
+### Da mesma forma que os testes anteriores, deve-se ecnontrar usando a fórmula o valor crítico.
