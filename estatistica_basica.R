@@ -352,3 +352,10 @@
 ### Quando as variâncias são iguais usa-se a distribuição de t-student.
 
 ### Da mesma forma que os testes anteriores, deve-se ecnontrar usando a fórmula o valor crítico.
+
+# Teste de Hipóteses de Médias Pareadas ----------------------------------------------------------------------------------------------------
+
+### Ocorre quando analisa duas populações ao mesmo tempo em relação a uma determinada variável.
+### Por exemplo, o tempo que dois alunos passam para responder uma determinada questão. A medida
+### que esses mesmos alunos respondem as próximas questões, eles vão formando pares. O tempo de
+### resposta de cada questão depende da própria questão e do candidato que responde.
