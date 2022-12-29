@@ -359,3 +359,7 @@
 ### Por exemplo, o tempo que dois alunos passam para responder uma determinada questão. A medida
 ### que esses mesmos alunos respondem as próximas questões, eles vão formando pares. O tempo de
 ### resposta de cada questão depende da própria questão e do candidato que responde.
+
+### Com os dados de tempo de cada variável, pode-se calcular a variável de diferença de tempos
+### dos dois candidatos. Esse cálculo é feito para os dois tempos de cada questão, então teremos
+### um conjunto de valores com as diferenças de tempos que será a amostra.
