@@ -383,3 +383,18 @@
 
 ### Hipótese alternativa: variância de A dividido pela variância de B é diferente de 1.
 
+### A Estatística de Teste é a variância amostral do grupo A dividido pela variância amostral do
+### grupo B. O nome dessa estatística é: estatística F de Fisher e Snedecor. Essa estatística
+### também tem uma distribuição de probabilidade e se chama distribuição F de Snedecor.
+
+### A distribuição de probabilidade é assimétrica. O pico da distribuição é igual a 1.
+
+### A distribuição apresenta um F crítico superior e um F crítico inferior.
+
+
+
+
+
+
+
+
