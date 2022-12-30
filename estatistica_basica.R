@@ -371,3 +371,7 @@
 
 ### Deve-se achar na fórmula o valor crítico da distribuição e a média da amostra para saber se
 ### essa média ultrapassa ou não a barreira do valor crítico.
+
+# Teste de hipóteses de duas variâncias ----------------------------------------------------------------------------------------------------
+
+### Também conhecido como teste F.
