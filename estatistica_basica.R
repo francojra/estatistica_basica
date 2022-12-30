@@ -375,3 +375,6 @@
 # Teste de hipóteses de duas variâncias ----------------------------------------------------------------------------------------------------
 
 ### Também conhecido como teste F.
+
+### Na hipótese nula a variância de um grupo A é igual a variância de um grupo B. A hipótese alternativa
+### ocorre quando um grupo A é diferente (maior ou menor) de um grupo B.
