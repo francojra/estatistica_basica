@@ -389,7 +389,9 @@
 
 ### A distribuição de probabilidade é assimétrica. O pico da distribuição é igual a 1.
 
-### A distribuição apresenta um F crítico superior e um F crítico inferior.
+### A distribuição apresenta um F crítico superior e um F crítico inferior. A partir desses dois
+### valores deve-se buscar um valor amostral (F = varA/varB) para verificar se ele ultrapassa 
+### ou não os valores do F crítico.
 
 
 
