@@ -393,6 +393,9 @@
 ### valores deve-se buscar um valor amostral (F = varA/varB) para verificar se ele ultrapassa 
 ### ou não os valores do F crítico.
 
+### Para encontrar os valores de F crítico na tabela, deve-se ter os valores da significância e os
+### valores de n amostral.
+
 
 
 
