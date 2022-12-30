@@ -378,3 +378,8 @@
 
 ### Na hipótese nula a variância de um grupo A é igual a variância de um grupo B. A hipótese alternativa
 ### ocorre quando um grupo A é diferente (maior ou menor) de um grupo B.
+
+### Hipótese nula: variância de A dividido pela variância de B é igual a 1.
+
+### Hipótese alternativa: variância de A dividido pela variância de B é diferente de 1.
+
