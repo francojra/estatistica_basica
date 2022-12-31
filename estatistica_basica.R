@@ -397,6 +397,11 @@
 ### Para encontrar os valores de F crítico na tabela, deve-se ter os valores da significância e os
 ### valores de n amostral.
 
+# Análise de Variância - ANOVA -------------------------------------------------------------------------------------------------------------
+
+### Hipótese nula: k médias apresentam médias iguais.
+
+### Hipótese alternativa: ao menos a média de um dos grupos é diferente das demais.
 
 
 
