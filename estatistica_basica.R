@@ -403,6 +403,11 @@
 
 ### Hipótese alternativa: ao menos a média de um dos grupos é diferente das demais.
 
+### Utiliza-se o teste F: variância entre amostras dividido pela variância do resíduo.
+
+### A variância entre amostras é calculada como a soma dos quadrados entre amostras dividido
+### pelos graus de liberdade entre amostras.
+
 
 
 
