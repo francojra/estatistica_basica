@@ -405,12 +405,12 @@
 
 ### Utiliza-se o teste F: variância entre amostras dividido pela variância do resíduo.
 
-### A variância entre amostras é calculada como a soma dos quadrados entre amostras dividido
+### Soma entre amostras: calculada como a soma dos quadrados entre amostras dividido
 ### pelos graus de liberdade entre amostras.
 
+### Soma total: soma dos quadrados totais dividido pelos graus de liberdade totais.
 
-
-
+### Soma residual: soma dos quadrados residuais dividido pelos graus de liberdade residuais.
 
 
 
