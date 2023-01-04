@@ -411,7 +411,7 @@
 ### Soma total: soma dos quadrados totais dividido pelos graus de liberdade totais.
 
 ### Soma residual: soma dos quadrados da variância (residuais) dividido pelos graus de 
-### liberdade residuais.
+### liberdade residuais k(n-1).
 
 ### A soma de quadrados totais se refere a soma dos quadrados de todas as variáveis (grupos)
 ### analisadas, ou seja, a soma de todos os valores das amostras menos a média dos grupos elevados ao quadrado, 
