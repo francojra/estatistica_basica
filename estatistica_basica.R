@@ -420,3 +420,5 @@
 ### A soma dos quadrados entre amostras é o n (número de amostras) vezes a soma dos quadrados
 ### dividido pelos graus de liberdade que é k - 1, onde k é o número de médias (grupos).
 
+### A soma de quadrados residuais pode ser o valor da soma de quadrados totais menos o valor
+### da soma de quadrados entre amostras.
