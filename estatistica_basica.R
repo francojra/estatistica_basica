@@ -414,9 +414,9 @@
 ### liberdade residuais.
 
 ### A soma de quadrados totais se refere a soma dos quadrados de todas as variáveis (grupos)
-### analisadas, ou seja, a soma de todos os valores das amostras menos a média total elevados ao quadrado, 
+### analisadas, ou seja, a soma de todos os valores das amostras menos a média dos grupos elevados ao quadrado, 
 ### dividido pelos graus de liberdade que é nk - 1 (k são os grupos e n o número de observações).
 
 ### A soma dos quadrados entre amostras é o n (número de amostras) vezes a soma dos quadrados
-### dividido pelos graus de liberdade.
+### dividido pelos graus de liberdade que é k - 1, onde k é o número de médias (grupos).
 
