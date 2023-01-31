@@ -422,3 +422,14 @@
 
 ### A soma de quadrados residuais pode ser o valor da soma de quadrados totais menos o valor
 ### da soma de quadrados entre amostras.
+
+# ANOVA com Dois Fatores -------------------------------------------------------------------------------------------------------------------
+
+### Hipótese nula: média igual em todas as linhas.
+
+### Hipótese alternativa: a média de pelo menos uma linha é diferente.
+
+### Após o teste F: na hipótese nula a variância entre linhas é igual a variância dos resíduos.
+### E na hipótese alternativa, a variância entre linhas é maior que a variância dos resíduos.
+
+
