@@ -436,6 +436,9 @@
 
 ### Hipótese alternativa: a média de pelo menos uma coluna é diferente.
 
+### Pode ocorrer diferença para apenas um dos fatores testados, para os dois fatores,
+### ou para nenhum deles. Serão calculados dois valores de F.
+
 ### Após o teste F: na hipótese nula a variância entre linhas é igual a variância dos resíduos.
 ### E na hipótese alternativa, a variância entre linhas é maior que a variância dos resíduos (pelo
 ### menos uma das populações diferente das demais em média).
