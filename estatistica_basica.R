@@ -437,7 +437,11 @@
 ### Hipótese alternativa: a média de pelo menos uma coluna é diferente.
 
 ### Pode ocorrer diferença para apenas um dos fatores testados, para os dois fatores,
-### ou para nenhum deles. Serão calculados dois valores de F.
+### ou para nenhum deles. Serão calculados dois valores de F críticos e dois valores
+### de F calculados.
+
+### Se o F crítico for maior que o F calculado não rejita-se a hipótese nula. Se o F crítico
+### for menor que o F calculado rejeita-se a hipótese nula.
 
 ### Após o teste F: na hipótese nula a variância entre linhas é igual a variância dos resíduos.
 ### E na hipótese alternativa, a variância entre linhas é maior que a variância dos resíduos (pelo
