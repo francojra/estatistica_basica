@@ -429,7 +429,11 @@
 
 ### Hipótese alternativa: a média de pelo menos uma linha é diferente.
 
+### Na ANOVA com dois fatores é acrescentado mais um teste de hipótese. Nesse caso, utiliza-se
+### a média entre as colunas e não entre linhas.
+
 ### Após o teste F: na hipótese nula a variância entre linhas é igual a variância dos resíduos.
-### E na hipótese alternativa, a variância entre linhas é maior que a variância dos resíduos.
+### E na hipótese alternativa, a variância entre linhas é maior que a variância dos resíduos (pelo
+### menos uma das populações diferente das demais em média).
 
 
