@@ -461,5 +461,7 @@
 ### Primeiro, deve-se verificar o valor do F crítico da interação para saber se existe ou não
 ### interações. Caso não exista interações, calcula-se o F crítico das amostras entrel inhas, 
 ### entre colunas e entre tratamentos (repetições) usando-se a soma dos quadrados dos resíduos
-### para o ccálculo desses F críticos. Caso exista interações, utiliza-se o valor da soma dos
+### para o cálculo desses F críticos. Caso exista interações, utiliza-se o valor da soma dos
 ### quadrados das interações.
+
+### Para essa análise são calculados quatro valores de F críticos e quatro valores de F calculados.
