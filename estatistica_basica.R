@@ -458,10 +458,12 @@
 
 ### Hipótese alternativa: a média de pelo menos uma linha ou coluna é diferente. 
 
-### Primeiro, deve-se verificar o valor do F crítico da interação para saber se existe ou não
-### interações. Caso não exista interações, calcula-se o F crítico das amostras entrel inhas, 
+### Para essa análise são calculados quatro valores de F críticos e quatro valores de F calculados.
+
+### Primeiro, deve-se verificar o valor do F crítico e calculado da interação para saber se existe ou não
+### interações. Caso não exista interações (H0), calcula-se o F crítico e calculado das amostras entre linhas, 
 ### entre colunas e entre tratamentos (repetições) usando-se a soma dos quadrados dos resíduos
-### para o cálculo desses F críticos. Caso exista interações, utiliza-se o valor da soma dos
+### para o cálculo desses F críticos. Caso exista interações (H1), utiliza-se o valor da soma dos
 ### quadrados das interações.
 
-### Para essa análise são calculados quatro valores de F críticos e quatro valores de F calculados.
+
