@@ -447,4 +447,12 @@
 ### E na hipótese alternativa, a variância entre linhas é maior que a variância dos resíduos (pelo
 ### menos uma das populações diferente das demais em média).
 
+# ANOVA com Repetições ---------------------------------------------------------------------------------------------------------------------
+
+### Analisa a diferença entre médias ao longo do tempo, por exemplo, desemenho de jogadores ao
+### longo de diferentes temporadas de jogos.
+
+### Hipótese nula: não há interações.
+
+### Hipótese alternativa: há interações.
 
