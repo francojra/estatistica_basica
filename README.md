@@ -35,4 +35,6 @@
 24. Teste de Hipóteses de Duas Médias;
 25. Teste de Hipóteses de Médias Pareadas;
 26. Teste de hipóteses de duas variâncias;
-27. Análise de Variância - ANOVA.
+27. Análise de Variância - ANOVA;
+28. ANOVA com Dois Fatores;
+29. ANOVA com Repetições.
