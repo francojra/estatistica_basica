@@ -452,7 +452,14 @@
 ### Analisa a diferença entre médias ao longo do tempo, por exemplo, desemenho de jogadores ao
 ### longo de diferentes temporadas de jogos.
 
-### Hipótese nula: não há interações.
+### Ocorrem repetições dentro das células das linhas e das colunas.
 
-### Hipótese alternativa: há interações.
+### Hipótese nula: média iguais em todas as linhas ou colunas. 
 
+### Hipótese alternativa: a média de pelo menos uma linha ou coluna é diferente. 
+
+### Primeiro, deve-se verificar o valor do F crítico da interação para saber se existe ou não
+### interações. Caso não exista interações, calcula-se o F crítico das amostras entrel inhas, 
+### entre colunas e entre tratamentos (repetições) usando-se a soma dos quadrados dos resíduos
+### para o ccálculo desses F críticos. Caso exista interações, utiliza-se o valor da soma dos
+### quadrados das interações.
