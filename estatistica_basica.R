@@ -470,4 +470,7 @@
 
 ### Coeficiente de correlação: medida de associação entre duas variáveis x e y.
 
-### 
+### Coeficiente de correlação amostral é chamado de r e mede a intensidade de
+### correlação entre as duas variáveis aleatórias x e y.
+
+###
