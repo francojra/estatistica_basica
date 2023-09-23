@@ -466,4 +466,8 @@
 ### para o cálculo desses F críticos. Caso exista interações (H1), utiliza-se o valor da soma dos
 ### quadrados das interações.
 
+# Correlação e Regressão Linear ------------------------------------------------------------------------------------------------------------
 
+### Coeficiente de correlação: medida de associação entre duas variáveis x e y.
+
+### 
