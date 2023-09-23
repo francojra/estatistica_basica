@@ -37,4 +37,5 @@
 26. Teste de hipóteses de duas variâncias;
 27. Análise de Variância - ANOVA;
 28. ANOVA com Dois Fatores;
-29. ANOVA com Repetições.
+29. ANOVA com Repetições;
+30. Correlação e Regressão Linear.
