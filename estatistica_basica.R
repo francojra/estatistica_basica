@@ -490,3 +490,9 @@
 
 ### Fórmula: r é igual a soma de quadrados do x e y, dividido pela raiz quadrada da
 ### da soma de quadrados de x multiplicado pela soma de quadrados de y.
+
+### A reta do coeficiente de correlação é uma média da relação entre os valores
+### de y variando em função de x.
+
+### A fórmula da reta de regressão é: y = a + bx, onde a e b são os coeficientes
+### da reta de regressão que representam os parâmetros alpha e beta.
