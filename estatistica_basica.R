@@ -473,4 +473,12 @@
 ### Coeficiente de correlação amostral é chamado de r e mede a intensidade de
 ### correlação entre as duas variáveis aleatórias x e y.
 
-###
+### Os valores de x e y correspondentes são chamados de pares ordenados.
+
+### Modelo de Regressão Linear Simples (MRLS).
+
+### O x é uma variável independente e os valores de y variam em torno dessa variável.
+
+### Exemplos: altura de pai vs altura de filho, peso vs altura.
+
+### Correlação linear perfeita: r = 1.
