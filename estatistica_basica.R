@@ -496,3 +496,9 @@
 
 ### A fórmula da reta de regressão é: y = a + bx, onde a e b são os coeficientes
 ### da reta de regressão que representam os parâmetros alpha e beta.
+
+### Os coeficientes da reta a e b são calculados para entender os modelos de regressão
+### linear simples.
+
+### Na inferência, utiliza-se o teste de ANOVA para regressão linear, de forma a 
+### saber se o modelo é significativo.
