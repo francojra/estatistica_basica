@@ -487,3 +487,6 @@
 ### Correlações negativas apresentam o valor de r variando entre -1 e zero.
 
 ### Os coeficientes de correlação apenas medem relações lineares entre as variáveis.
+
+### Fórmula: r é igual a soma de quadrados do x e y, dividido pela raiz quadrada da
+### da soma de quadrados de x multiplicado pela soma de quadrados de y.
