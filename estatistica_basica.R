@@ -481,4 +481,9 @@
 
 ### Exemplos: altura de pai vs altura de filho, peso vs altura.
 
-### Correlação linear perfeita: r = 1.
+### Correlação linear perfeita: r = 1. As correlações fracas apresentam o r próximo
+### ao valor zero.
+
+### Correlações negativas apresentam o valor de r variando entre -1 e zero.
+
+### Os coeficientes de correlação apenas medem relações lineares entre as variáveis.
