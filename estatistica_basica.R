@@ -515,3 +515,9 @@
 ### O que não está no ajuste do modelo de regressão é considerado resíduo.
 
 ### Quanto menor o resíduo e o erro nas estimativas, mais o modelo será significativo.
+
+### Quanto maior o valor de F, maior a probabilidade dele ultrapassar o F crítico e
+### rejeitar a hipótese nula.
+
+### Soma dos quadrados total = soma de cada valor de y menos a média de y elevados ao
+### quadrado.
