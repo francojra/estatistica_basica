@@ -537,4 +537,4 @@
 ### entre x e y, já o r² é a medida relacionada ao modelo de regressão que explica as 
 ### variáveis, e ele varia entre 0 e 1. Se mais próximo de 1, indica que o modelo
 ### explicou bem a relação entre as variáveis x e y. Podemos dizer que um r² de 0,9
-### indica que o modelo explica 90% da variação do y em relação ao x.
+### indica que o modelo explica 90% da fonte de variação do y em relação ao x.
