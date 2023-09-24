@@ -526,4 +526,10 @@
 ### de regressão) menos a média de y elevados ao quadrado.
 
 ### Soma dos quadrados residual = soma de cada valor de y menos os valores de y 'chapeu'
-### dispostos na reta de equação elevados ao quadrado.
+### dispostos na reta de equação elevados ao quadrado. Isso também é chamado de erro
+### residual.
+
+### Soma dos quadrados residual = soma dos quadrados total - soma dos quadrados da 
+### regressão.
+
+### O r² é definido como a soma dos quadrados da regressão / soma dos quadrados total.
