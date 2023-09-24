@@ -532,4 +532,9 @@
 ### Soma dos quadrados residual = soma dos quadrados total - soma dos quadrados da 
 ### regressão.
 
-### O r² é definido como a soma dos quadrados da regressão / soma dos quadrados total.
+### O r² (coeficiente de determinação) é definido como a soma dos quadrados da 
+### regressão / soma dos quadrados total. O r apenas mede o quão forte é a relação
+### entre x e y, já o r² é a medida relacionada ao modelo de regressão que explica as 
+### variáveis, e ele varia entre 0 e 1. Se mais próximo de 1, indica que o modelo
+### explicou bem a relação entre as variáveis x e y. Podemos dizer que um r² de 0,9
+### indica que o modelo explica 90% da variação do y em relação ao x.
