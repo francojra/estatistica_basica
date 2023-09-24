@@ -520,4 +520,10 @@
 ### rejeitar a hipótese nula.
 
 ### Soma dos quadrados total = soma de cada valor de y menos a média de y elevados ao
-### quadrado.
+### quadrado. Isso é igual a variância do y por ele mesmo.
+
+### Soma dos quadrados da regressão = soma do y 'chapeu' (valores do y que estão na reta 
+### de regressão) menos a média de y elevados ao quadrado.
+
+### Soma dos quadrados residual = soma de cada valor de y menos os valores de y 'chapeu'
+### dispostos na reta de equação elevados ao quadrado.
