@@ -502,3 +502,9 @@
 
 ### Na inferência, utiliza-se o teste de ANOVA para regressão linear, de forma a 
 ### saber se o modelo é significativo.
+
+# ANOVA para Regressão Linear --------------------------------------------------------------------------------------------------------------
+
+### Para saber se o modelo é significativo para explicar y em função de x.
+
+### Aplicação de teste de hipótese para o modelo de regressão linear.
