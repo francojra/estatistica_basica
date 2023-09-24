@@ -511,3 +511,7 @@
 
 ### Hipótese nula: o modelo de regressão não é significativo para explicar y;
 ### Hipótese alternativa: o modelo de regressão é significativo para explicar y.
+
+### O que não está no ajuste do modelo de regressão é considerado resíduo.
+
+### Quanto menor o resíduo e o erro nas estimativas, mais o modelo será significativo.
