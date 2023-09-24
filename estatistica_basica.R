@@ -538,3 +538,11 @@
 ### variáveis, e ele varia entre 0 e 1. Se mais próximo de 1, indica que o modelo
 ### explicou bem a relação entre as variáveis x e y. Podemos dizer que um r² de 0,9
 ### indica que o modelo explica 90% da fonte de variação do y em relação ao x.
+
+### É necessário na ANOVA calcular o F crítico e o F amostral.
+
+### Os valores de quadrado médio são a soma dos quadrados dividido pelos graus de 
+### liberdade.
+
+### F amostral = soma dos quadrados médios da regressão / soma dos quadrados médios
+### dos resíduos.
