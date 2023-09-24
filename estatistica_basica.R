@@ -546,3 +546,6 @@
 
 ### F amostral = soma dos quadrados médios da regressão / soma dos quadrados médios
 ### dos resíduos.
+
+### Se o valor de F amostral for maior que o F crítico significa que o modelo da reta
+### é significativo.
