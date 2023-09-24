@@ -508,3 +508,6 @@
 ### Para saber se o modelo é significativo para explicar y em função de x.
 
 ### Aplicação de teste de hipótese para o modelo de regressão linear.
+
+### Hipótese nula: o modelo de regressão não é significativo para explicar y;
+### Hipótese alternativa: o modelo de regressão é significativo para explicar y.
