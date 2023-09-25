@@ -569,3 +569,16 @@
 ### A distribuição de t student é simétrica.
               
 ### Esse teste estatístico testa o beta e não o modelo de regressão como um todo.
+
+### Teste do parâmetro ro
+
+### O ro é o parâmetro que o coeficiente de correlação r tenta estimar.
+
+### Testa se as duas variáveis são correlacionadas linearmente.
+
+### Hipóteses: 
+### H0 -> ro igual a zero
+### H1 -> ro diferente de zero
+
+### A variável de teste é dada por uma t-student, tal que:
+### t amostral = r multiplicado pela raiz quadrada de n - 2 / 1 - r²
