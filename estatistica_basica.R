@@ -549,3 +549,15 @@
 
 ### Se o valor de F amostral for maior que o F crítico significa que o modelo da reta
 ### é significativo.
+
+# Intervalos e Testes da Regressão Linear  -------------------------------------------------------------------------------------------------
+
+### Teste do parâmetro beta: y = a + bx
+
+### Hipóteses: 
+### H0 -> beta igual a zero
+### H1 -> beta diferente de zero
+
+### Ao se rejeitar H0, estamos afirmando que a reta de regressão é significativa
+### para explicar a variável y a partir da variável x.
+              
