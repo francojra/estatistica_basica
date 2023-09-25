@@ -562,4 +562,10 @@
 
 ### Ao se rejeitar H0, estamos afirmando que a reta de regressão é significativa
 ### para explicar a variável y a partir da variável x.
+
+### A variável de teste é dada por uma t-student, tal que:
+### t amostral = b / desvio-padrão do resíduo / soma dos quadrados de x em relação a x
+
+### A distribuição de t student é simétrica.
               
+### Esse teste estatístico testa o beta e não o modelo de regressão como um todo.
