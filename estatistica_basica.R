@@ -582,3 +582,18 @@
 
 ### A variável de teste é dada por uma t-student, tal que:
 ### t amostral = r multiplicado pela raiz quadrada de n - 2 / 1 - r²
+
+### Intervalo de Confiança de alpha (a)
+
+### O a é o intercepto da regressão e existe um intervalo de variação desse coeficiente
+### na reta de regressão, ou seja, ele pode assumir vários valores.
+
+### Existe um intervalo de confiança em que esse parâmetro alpha pode ser estimado e
+### ele varia em torno do eixo y.
+
+### Intervalo de Confiança de beta (b)
+
+### O beta é a tangente do ângulo da reta chamado de teta.
+
+### Existe um intervalo de confiança em que esse parâmetro beta pode ser estimado.
+### Esse parâmetro pode estar dentro de uma faixa de variação.
