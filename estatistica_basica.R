@@ -554,6 +554,8 @@
 
 ### Teste do parâmetro beta: y = a + bx
 
+### Parâmetros populacionais: y = alpha + beta.x
+
 ### Hipóteses: 
 ### H0 -> beta igual a zero
 ### H1 -> beta diferente de zero
