@@ -603,3 +603,9 @@
 
 ### Com 95% de confiança o valor verdadeiro de y pode estar numa determinada faixa
 ### para cada valor de x.
+
+### O intervalo de confiança de y é dado por xi que contem o valor de y = a + bx com 
+### (1 - alpha)% de confiança.
+
+### Quanto mais distante do valor médio da reta de regressão, maior o intervalo de 
+### confiança.
