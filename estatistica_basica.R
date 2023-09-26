@@ -621,3 +621,10 @@
 ### Na hipótese alternativa do teste de Cochran, ao menos uma variância dos grupos é
 ### diferente. Ele testa a hipótese da homocedasticidade, o H0 indica que todas as 
 ### populações apresentam a mesma variância.
+
+### Testes de distribuições: 
+### Teste de Kolmogorov-Smirnov
+### Teste de Shapiro-Wilk
+
+### Os testes de distribuição não paramétricos citados acima testam uma variável e não 
+### parâmetros populacionais. Eles testam a normalidade dos dados.
