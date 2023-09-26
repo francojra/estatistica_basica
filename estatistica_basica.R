@@ -644,4 +644,9 @@
 ### Quando obtivermos todas as observações das faces dos dados, nós vamos ter uma frequência
 ### para cada um dos valores observados.
 
-### Após isso, fazemos uma comparação entre os valores esperados e observados.
+### Após isso, fazemos uma comparação entre os valores esperados e observados. Se o dado
+### for honesto, vamos obter distribuições de probabilidades próximas a 1/6. Se o dado
+### não for honesto, então os dados não estarão aderidos a essa distribuição de probabilidade.
+
+### Fórmula do teste: soma dos valores obervados menos os esperados elevado ao quadrado
+### dividido pelos valores observados.
