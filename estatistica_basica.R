@@ -616,3 +616,8 @@
 ### outro, e na hipótese alternativa ao menos uma média de um grupo é diferente dos outros.
 ### Se a hipótese nula é rejeitada, então deve-se aplicar um teste post-hoc, como o teste
 ### de Tukey e Scheffé.
+
+### Teste de Cochran: teste para as variâncias.
+### Na hipótese alternativa do teste de Cochran, ao menos uma variância dos grupos é
+### diferente. Ele testa a hipótese da homocedasticidade, o H0 indica que todas as 
+### populações apresentam a mesma variância.
