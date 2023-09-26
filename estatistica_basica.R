@@ -625,6 +625,23 @@
 ### Testes de distribuições: 
 ### Teste de Kolmogorov-Smirnov
 ### Teste de Shapiro-Wilk
+### Representações gráficas dos testes
 
 ### Os testes de distribuição não paramétricos citados acima testam uma variável e não 
 ### parâmetros populacionais. Eles testam a normalidade dos dados.
+
+### Teste de Aderência por X²
+
+### Teste de aderência dos dados a um modelo esperado.
+
+### Em n elementos extraídos de uma população, temos nela, para cada valor de i,
+### o valor esperado e o valor observado.
+
+### Em um dado honesto, para cada valor, nós temos a probabilidade de 1/6 (seis faces),
+### ou seja, a probabilidade de cada face do dado cair é de 1/6. Esses são os valores
+### esperados.
+
+### Quando obtivermos todas as observações das faces dos dados, nós vamos ter uma frequência
+### para cada um dos valores observados.
+
+### Após isso, fazemos uma comparação entre os valores esperados e observados.
