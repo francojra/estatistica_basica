@@ -659,4 +659,4 @@
 ### É feita uma frequência para cada opinião por sexo.
 ### Após isso, é feito um teste de X² dos valores esperados e observados.
 ### Se os resultados indicarem que não existe correlação entre sexo e opiniões,
-### então ocorre uma indepedência dos dados.
+### então ocorre uma independência dos dados.
