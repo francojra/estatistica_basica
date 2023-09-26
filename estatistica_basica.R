@@ -609,3 +609,10 @@
 
 ### Quanto mais distante do valor médio da reta de regressão, maior o intervalo de 
 ### confiança.
+
+# Teste de Aderência -----------------------------------------------------------------------------------------------------------------------
+
+### Revisando: o teste da ANOVA indica na hipótese nula que nenhum grupo difere um do
+### outro, e na hipótese alternativa ao menos uma média de um grupo é diferente dos outros.
+### Se a hipótese nula é rejeitada, então deve-se aplicar um teste post-hoc, como o teste
+### de Tukey e Scheffé.
