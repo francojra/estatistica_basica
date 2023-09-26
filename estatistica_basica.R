@@ -650,3 +650,13 @@
 
 ### Fórmula do teste: soma dos valores obervados menos os esperados elevado ao quadrado
 ### dividido pelos valores observados.
+
+### Teste de independência - Tabela de contigência:
+### Esse teste é usado quando existem duas ou mais variáveis qualitativas de interesse.
+### Representação tabular das frequências.
+
+### Exemplo: opiniões favoráveis ou contrárias e sexo feminino ou masculino.
+### É feita uma frequência para cada opinião por sexo.
+### Após isso, é feito um teste de X² dos valores esperados e observados.
+### Se os resultados indicarem que não existe correlação entre sexo e opiniões,
+### então ocorre uma indepedência dos dados.
