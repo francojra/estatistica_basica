@@ -40,4 +40,5 @@
 29. ANOVA com Repetições;
 30. Correlação e Regressão Linear;
 31. ANOVA para Regressão Linear;
-32. Intervalos e Testes da Regressão Linear.
+32. Intervalos e Testes da Regressão Linear;
+33. Teste de Aderência.
